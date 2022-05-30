@@ -63,18 +63,17 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-*𝙷𝙾𝙻𝙰 ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴  ixxi - 𝙱𝙾𝚃*
+*𝙷𝙾𝙻𝙰 ♡${name}♡*
 ╭──────────ꕥ
 * 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
-
 * 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
-
 * 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
- -Figura 
+╰──────────✾
+-Figura 
  Ares
  Bussy
  Ixxi 
- Cherry lesbiana
+ Nymos
 ╰─────────✾
 ╭─────────ꕥ
 ├─𝕁𝕌𝔼𝔾𝕆𝕊
@@ -186,7 +185,7 @@ let str = `
 ┃ *CREADORES*
 ╰────────✾
 ╭─────────ꕥ
-├─ ❏ s
+├─ ❏ .s
 ├─ ❏ ${usedPrefix}toimg 
 ├─ ❏ ${usedPrefix}tomp3 
 ├─ ❏ ${usedPrefix}toptt 
@@ -202,14 +201,7 @@ let str = `
 ├─ ❏ .style *texto*
 ├─ ❏ .estilo *text*
 ╰────────✾
-╭────────ꕥ
-┃ *SUBIR ESTADOS A IXXI BOT*
-┃ *¡Sube estados!*
-╰─────────✾
-╭─────────ꕥ
-├─ ❏ .subirestado 
-╰──────────✾
-╭──────────ꕥ
+ ──────────ꕥ
 ┃ *COMANDOS +18*
 ┃
 ┃ *NO nos hacemos responsables*
@@ -221,18 +213,18 @@ let str = `
 ┃ *EFECTOS PARA AUDIOS*
 ╰───────✾
 ╭────────ꕥ
-├─🎤 ${usedPrefix}bass
-├─🎤 ${usedPrefix}blown
-├─🎤 ${usedPrefix}deep
-├─🎤 ${usedPrefix}earrape
-├─🎤 ${usedPrefix}fast
-├─🎤 ${usedPrefix}fat
-├─🎤 ${usedPrefix}nightcore
-├─🎤 ${usedPrefix}reverse
-├─🎤 ${usedPrefix}robot
-├─🎤 ${usedPrefix}slow
-├─🎤 ${usedPrefix}smooth
-├─🎤 ${usedPrefix}tupai
+├─ ${usedPrefix}bass
+├─ ${usedPrefix}blown
+├─ ${usedPrefix}deep
+├─ ${usedPrefix}earrape
+├─ ${usedPrefix}fast
+├─ ${usedPrefix}fat
+├─ ${usedPrefix}nightcore
+├─ ${usedPrefix}reverse
+├─ ${usedPrefix}robot
+├─ ${usedPrefix}slow
+├─ ${usedPrefix}smooth
+├─ ${usedPrefix}tupai
 ╰────────✾
 
 ╭─────────ꕥ
@@ -247,18 +239,6 @@ let str = `
 ╭───────────ꕥ
 ┃ 𝔸𝕌𝔻𝕀𝕆𝕊
 ╰───────────✾
-╭──────────ꕥ
-├─ Quien es tu sempai botsito 7w7
-├─ Te diagnostico con gay
-├─ nadie le importa
-├─ Fiesta del admin
-├─ Fiesta del administrador
-├─ Vivan los novios
-├─ Feliz cumpleaños
-├─ Noche de paz
-├─ Buenos dias
-├─ Viernes
-╰──────────✾
 ╭────────────ꕥ
 ┃𝕃𝕀𝕄𝕀𝕋𝔼𝕊 - 𝔼ℂ𝕆ℕ𝕆𝕄𝕀𝔸
 ╰────────────✾
