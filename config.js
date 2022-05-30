@@ -65,7 +65,7 @@ global.author = 'ixxi'
 
 global.wm = 'ixxi'
 global.igfg = 'ixxi'
-global.wait = '* _Cargando..._ ▬▬▬▭*'
+global.wait = '* _Espera.._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
 
@@ -73,9 +73,9 @@ global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
     let emot = {
-      level: '🏆',
-      limit: '💎',
-      exp: '🕹️'
+      level: '$',
+      limit: '$',
+      exp: '$'
     }
     let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
     if (!results.length) return ''
